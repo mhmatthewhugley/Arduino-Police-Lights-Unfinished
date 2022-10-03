@@ -1,0 +1,4 @@
+Have your blue wire go from whatever pin is set in the code/script to a 240ohm resistor or if you dont have that have it go to
+a 220ohm then have that go to a 22 ohm
+resistor then have that go to the plus on the led and have the negative of the led go to ground
+then do the same but for the red led.
